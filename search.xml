@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Markdown教程</title>
+      <link href="/2021/11/06/Markdown%E5%AD%A6%E4%B9%A0/Markdown%E6%95%99%E7%A8%8B/"/>
+      <url>/2021/11/06/Markdown%E5%AD%A6%E4%B9%A0/Markdown%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Markdown-教程"><a href="#Markdown-教程" class="headerlink" title="Markdown 教程"></a>Markdown 教程</h1><h2 id="1-使用-和-标记一级和二级biaot"><a href="#1-使用-和-标记一级和二级biaot" class="headerlink" title="1.使用=和-标记一级和二级biaot"></a>1.使用=和-标记一级和二级biaot</h2><h2 id="2-使用-号标记1-6级"><a href="#2-使用-号标记1-6级" class="headerlink" title="2.使用#号标记1-6级"></a>2.使用#号标记1-6级</h2><p>  #一级<br>  ##二级<br>  ###三级<br>  ####四级</p><h2 id="3-字体"><a href="#3-字体" class="headerlink" title="3.字体 "></a>3.字体 </h2><p><strong>加粗</strong></p><p><em>倾斜</em><br><em><strong>加粗加倾斜</strong></em><br>==高亮==<br>我是^上标^<br><del>下标</del>    (注意英文状态下)<br>分隔线  (你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线)</p><hr><p>下划线 <u>下划线</u><br>脚注：对文本的补充   [^要注明的文本]</p><h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><p>1.无序列表使用星号(*)、加号(+)或是减号(-)作为列表标记，这些标记后面要添加一个空格，然后再填写内容</p><p>*第一项  #+ -<br>*第二项<br>*第三项</p><p>有序列表（数字并加上 . 号）</p><p>1.第一<br>2.第二<br>3.第三</p><p>列表嵌套<br>列表嵌套只需在子列表中的选项前面添加四个空格即可：<br>1.第一项<br>    嵌套第一个<br>    第二个</p><h2 id="区块引用"><a href="#区块引用" class="headerlink" title="区块引用"></a>区块引用</h2><p>###1.Markdown 区块引用是在段落开头使用 &gt; 符号 ，然后后面紧跟一个空格符号：</p><blockquote><p>我是张三</p><blockquote><p>我是李四</p><blockquote><p>我是王五</p></blockquote></blockquote></blockquote><h2 id="区块中使用列表"><a href="#区块中使用列表" class="headerlink" title="区块中使用列表"></a>区块中使用列表</h2><p>###1。区块中使用列表实例如下</p><blockquote><p>区块中使用实例<br>1.第一项<br>+s<br>2.第二项<br>+第一项</p></blockquote><h2 id="列表中使用区块"><a href="#列表中使用区块" class="headerlink" title="列表中使用区块"></a>列表中使用区块</h2><p>###1.如果要在列表项目内放进区块，那么就需要在 &gt; 前添加四个空格的缩进。<br>*第一项<br>    &gt;markdown教程<br>    &gt;学习使我进步<br>*第二项</p><h2 id="代码块"><a href="#代码块" class="headerlink" title=" 代码块 "></a> 代码块 </h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><img src="https://cdn.jsdelivr.net/gh/string32/picgo/img/20211106150916.png" alt="链接"><br><img src="https://cdn.jsdelivr.net/gh/string32/picgo/img/20211106151120.png" alt="高级链接"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>美女</title>
       <link href="/2021/11/04/%E5%9B%BE%E7%89%87%E6%8F%8F%E8%BF%B0/%E5%9B%BE%E7%89%87%E6%8F%8F%E8%BF%B0/"/>
       <url>/2021/11/04/%E5%9B%BE%E7%89%87%E6%8F%8F%E8%BF%B0/%E5%9B%BE%E7%89%87%E6%8F%8F%E8%BF%B0/</url>
